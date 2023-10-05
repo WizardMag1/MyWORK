@@ -1,0 +1,8 @@
+﻿  MyWORK.cpp
+C:\Папка для работы\Education Python\Python\MyWORK\MyWORK.cpp(48,50): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Папка для работы\Education Python\Python\MyWORK\MyWORK.cpp(79,9): error C2360: пропуск инициализации "newOrder" из-за метки "case"
+C:\Папка для работы\Education Python\Python\MyWORK\MyWORK.cpp(47,19): message : см. объявление "newOrder"
+C:\Папка для работы\Education Python\Python\MyWORK\MyWORK.cpp(100,9): error C2360: пропуск инициализации "newOrder" из-за метки "case"
+C:\Папка для работы\Education Python\Python\MyWORK\MyWORK.cpp(47,19): message : см. объявление "newOrder"
+C:\Папка для работы\Education Python\Python\MyWORK\MyWORK.cpp(104,9): error C2361: пропуск инициализации "newOrder" из-за метки "default"
+C:\Папка для работы\Education Python\Python\MyWORK\MyWORK.cpp(47,19): message : см. объявление "newOrder"
